@@ -1,0 +1,10 @@
+01. 16May: Python Intro                  https://www.youtube.com/watch?v=jHdK7P3N9ko
+02. 29May: Data Operations Types         https://www.youtube.com/watch?v=Sil8KHn1K-s
+03. 30May: Python Install Run            https://www.youtube.com/watch?v=iJRF4hr3O4Y
+04. 05Jun: Python Statements             https://www.youtube.com/watch?v=iJRF4hr3O4Y
+05. 06Jun: AdvStatements                 https://www.youtube.com/watch?v=XS20l4wwuJ4                             (No Sound)
+12. 04Jul: FlaskMySQL                    https://www.youtube.com/watch?v=YvhHAJXqWwA
+13. 10Jul: AdvPkgNumpy                   https://www.youtube.com/watch?v=N3Zb8KxvBxQ
+14. 11Jul: Pandas                        https://www.youtube.com/watch?v=fhoz0WPKsR0
+15. 17Jul: MatplotLibJinja2Flask         https://www.youtube.com/watch?v=i3_4PZiM-4o
+16. 18Jul: FlaskJinja2MySQL              https://www.youtube.com/watch?v=s7yYM2tsZqg

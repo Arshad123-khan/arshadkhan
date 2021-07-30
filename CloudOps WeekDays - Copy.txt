@@ -1,0 +1,23 @@
+complete notes by Mujahid Sir          
+https://docs.google.com/document/d/1OPpwAmBszb2-iu37On61KERNcC5_7p2ddyp7Ll95J_A/edit?ts=60e71dd6#heading=h.v5n1kerav4a9
+
+01.    21 Jun: Platform Intro	                               https://youtu.be/Zef-A1bfBK8
+02.    22 Jun: Cloud Service Model                             https://youtu.be/XT-laKMlO1k
+03.    23 Jun: Cloud Technology	                               https://youtu.be/GNgeRR-zChs
+04.    24 Jun: Deploy Static Website S3	                       https://youtu.be/UTVt3CjkBM0
+05.    25 Jun: Deep Dive Storage	                           https://youtu.be/tXO-hP-DeCY
+06.    28 Jun: S3 Storage Classes	                           https://youtu.be/XWNPV2uxWAQ
+07.    29 Jun: Enterprise Servers	                           https://youtu.be/y2Evnc-S9oY
+08.    30 Jun:  Cloud DB Server	                               https://youtu.be/RuXc7oQ1Ftk
+09.    01 Jul: Deploy DB Server	                               https://youtu.be/r1pe_urV2nU
+10.    02 Jul: Java Application Deployment                     https://youtu.be/tYHU69Y1wEk
+11.    07 Jul: Integration of Servers                          https://youtu.be/u1B_P26W82U
+12.    08 Jul: Interaction with Servers                        https://youtu.be/4gFJ4IBJf1o
+13.    09 Jul: Web Server and Database Server                  https://youtu.be/Gp9BqZSdr_8
+14.    12 Jul: RemoteDBConfigurations                          https://www.youtube.com/watch?v=Ug7LZv2ESC4
+15.    13 Jul: VCS(Version Control System)CodeCommit           https://www.youtube.com/watch?v=fjgdUU5811U
+16.    14 Jul: CodeCommitCreateCloneRepo                       https://www.youtube.com/watch?v=SXoYsmAQyW4
+19.    15 Jul: WebDBServersDeployPHPApp                        https://www.youtube.com/watch?v=NMzsRb5i6pY
+20.    16 Jul: DeployPythonApp                                 https://www.youtube.com/watch?v=I-0C80VRYvY
+21.    18 Jul: FlaskAppDeployment                              
+

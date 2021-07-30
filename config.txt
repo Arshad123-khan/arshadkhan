@@ -1,0 +1,6 @@
+################
+# AWS CodeCommit
+################
+Host git-codecommit.*.amazonaws.com
+  User a1-at-645122936551
+  IdentityFile C:/Users/arshad/.ssh/id_rsa
